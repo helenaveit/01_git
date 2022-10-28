@@ -1,5 +1,5 @@
 
-generateSierpinski <- function(rows) {
+generateSierpinski2 <- function(rows) {
   # stub function that generates random rows
   data.frame(x=runif(rows), y=runif(rows))
 }
